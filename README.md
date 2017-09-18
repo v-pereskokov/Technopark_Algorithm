@@ -1,1 +1,1 @@
-# Technopark_Algorhitm
+# Technopark_Algorithm
